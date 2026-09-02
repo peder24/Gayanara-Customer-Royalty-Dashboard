@@ -3,8 +3,6 @@
 
 ![Customer Loyalty & Retention Dashboard](https://res.cloudinary.com/dk2tex4to/image/upload/v1788071053/Screenshot_2026-08-30_132353_cysoix.png)
 
-> **Audience:** C-level, Sales Director, CRM Manager, Marketing Manager
-> **Tujuan dokumen ini:** Memberikan konteks analitik lengkap atas data yang ditampilkan di dashboard Customer Loyalty & Retention, sehingga stakeholder dapat memahami perilaku pembelian berulang pelanggan dan mengambil keputusan berbasis data untuk meningkatkan loyalitas pelanggan.
 > **Catatan penting:** Seluruh KPI dan analisis **tidak termasuk** order berstatus *cancelled* dan *returned*.
 
 ## Daftar Isi
@@ -387,22 +385,8 @@ Produk-produk di daftar ini bukan hanya top revenue product, tetapi top loyalty 
 
 **Rekomendasi:** Jadikan produk ini sebagai centerpiece kampanye loyalty — rekomendasi produk, bundle deals, atau first-purchase incentive untuk mendorong customer mencoba produk ini di pembelian pertama.
 
-## 10. Pertanyaan Bisnis Lanjutan
 
-| # | Pertanyaan | Prioritas |
-|---|---|---|
-| 1 | Dari channel mana one-time buyers 2022 dan 2023 berasal? | Kritis |
-| 2 | Apakah ada korelasi antara produk pertama yang dibeli dengan kemungkinan repeat purchase? | Kritis |
-| 3 | Mengapa Q1 2024 memiliki bulan 1 retention jauh lebih tinggi dari cohort lain? | Kritis |
-| 4 | Apakah pelanggan yang membeli via promo (RAMADAN, HARBOLNAS) memiliki repeat rate berbeda? | Penting |
-| 5 | Berapa customer lifetime value rata-rata per repeat buyer? | Penting |
-| 6 | Apakah ada perbedaan repeat rate berdasarkan gender atau age group? | Penting |
-| 7 | Produk apa yang paling sering menjadi pembelian kedua setelah pembelian pertama? | Penting |
-| 8 | Apakah Avg Gap Days berbeda signifikan antar provinsi? | Strategis |
-| 9 | Apakah kurir yang digunakan berpengaruh terhadap kemungkinan repeat purchase? | Strategis |
-| 10 | Berapa batas minimum repeat purchase untuk seorang customer dianggap highly loyal? | Strategis |
-
-## 11. Catatan Metodologi
+## 10. Catatan Metodologi
 
 - Data yang digunakan adalah valid orders, tidak termasuk cancelled dan returned.
 - **Repeat buyer** didefinisikan sebagai customer yang melakukan order lebih dari 1 kali dalam tahun kalender yang dipilih (intra-year repeat).
@@ -413,9 +397,3 @@ Produk-produk di daftar ini bukan hanya top revenue product, tetapi top loyalty 
 - Data 2025 dikecualikan dari seluruh analisis.
 - Angka "All Years" menggunakan definisi cross-period (pernah order lebih dari sekali di seluruh periode 2022-2024) dan tidak dapat dibandingkan langsung dengan angka per tahun.
 - Cohort bulan yang kosong menandakan cohort belum cukup umur untuk mencapai bulan tersebut, bukan berarti tidak ada aktivitas.
-
-*Dokumen ini dibuat berdasarkan data yang ditampilkan pada Customer Loyalty & Retention Dashboard GAYANARA, periode 2022-2024.*
-*Untuk pertanyaan analitik lebih lanjut atau permintaan drill-down data, hubungi tim Data & Analytics.*
-
-**Dibuat oleh:** Data & Analytics Team
-**Last Updated:** 2024
