@@ -43,7 +43,7 @@ Dashboard ini dibuat untuk menjawab:
 
 ### Repeat Purchase Rate
 
-Persentase customer yang melakukan order lebih dari 1 kali dalam tahun yang dipilih (intra-year repeat). Customer yang order 2 kali atau lebih dalam tahun yang sama dihitung sebagai repeat buyer.
+Persentase customer yang melakukan lebih dari satu order dalam periode yang dipilih.
 
 ```
 Repeat Purchase Rate = Repeat Buyers / Total Customers
